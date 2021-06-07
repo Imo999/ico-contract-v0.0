@@ -47,3 +47,10 @@ Clone Repo Git : https://github.com/Imo999/ico-contract-v0.0
 ```zsh
 % yarn install
 ```
+
+## Test Smart contract :
+
+```zsh
+% npx hardhat compile
+% npx hardhat test
+```

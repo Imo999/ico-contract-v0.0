@@ -9,7 +9,6 @@ import "./IToken.sol";
 
  /// @title ICO for RoToken
  /// @author RC
- /// @notice This is an ICO for a RoToken, you can buy RoToken at a rate of 1 Token is equal 1 Gwei.
  /// @dev RoToken is an ERC20.
 
 contract ICO is Ownable {
